@@ -7,5 +7,5 @@ The project is divided as:
   Source-available symbolic computation framework
 - [Numerica](https://github.com/symbolica-dev/numerica)
   Open-source exact and approximate numerical types
-- [Graphica](https://github.com/symbolica-dev/numerica)
+- [Graphica](https://github.com/symbolica-dev/graphica)
   Open-source graph library that supports mixed directed and undirected edges
