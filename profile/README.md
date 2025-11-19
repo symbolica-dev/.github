@@ -9,3 +9,5 @@ The project is divided as:
   Open-source exact and approximate numerical types
 - [Graphica](https://github.com/symbolica-dev/graphica)
   Open-source graph library that supports mixed directed and undirected edges
+- [Symbolica-community](https://github.com/symbolica-dev/symbolica-community)
+  Python bindings for Symbolica, including Rust packages from the community
